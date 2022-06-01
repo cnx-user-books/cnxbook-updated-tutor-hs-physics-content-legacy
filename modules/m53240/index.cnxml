@@ -1,0 +1,329 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+
+<title>Newton's Second Law of Motion</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m53240</md:content-id>
+  <md:title>Newton's Second Law of Motion</md:title>
+  <md:abstract/>
+  <md:uuid>d60a912c-83cf-443a-a6c2-3dd95545e7d4</md:uuid>
+</metadata>
+
+<content>
+
+<section id="fs-id1172366214507" class="section-opener">
+<note id="fs-id1170289339970" class="learning-objectives"><label/><title>Section learning Objectives</title>
+  
+  <para id="fs-id2308506">By the end of this section, you will be able to:</para>  
+  <list id="fs-id1172376353688"><item class="ost-learning-objective-def ost-tag-lo-k12phys-ch04-s03-lo01 ost-tag-teks-112-39-c-4d"> Describe Newton's Second Law both verbally and mathematically</item>
+  <item class="ost-learning-objective-def ost-tag-lo-k12phys-ch04-s03-lo02 ost-tag-teks-112-39-c-4d"> Use Newton's Second Law to solve problems</item>
+    </list></note><note id="eip-idm19181472" class="os-teacher"><label>Teacher Edition</label><para id="eip-idm45698528">The Learning Objectives in this section will help your students master the following TEKS:</para>
+<list id="fs-id1170296842655">
+  <item>(4) Science concepts. The student knows and applies the laws governing motion in a variety of situations. The student is expected to:
+
+  <list id="eip-idm34823152">
+    <item class="ost-standards-def ost-standards-teks ost-tag-teks-112-39-c-4d">
+    <span class="ost-standards-name">(4D)</span>
+    <span class="ost-standards-discard">:</span>
+    <span class="ost-standards-description"> calculate the effect of forces on objects, including the law of inertia, the relationship between force and acceleration, and the nature of force pairs between objects</span>
+</item>
+</list>
+</item>
+</list>
+</note><table id="eip-383" summary="This is a summary of the AP curriculum pertaining to this module." class="key-terms ost-reading-discard unnumbered"><label/><title>Section Key Terms</title>
+<tgroup cols="3"><tbody>
+  <row>
+    <entry>freefall</entry>
+    <entry>Newton's second law of motion</entry>
+    <entry>weight</entry>
+  </row>
+</tbody>
+
+</tgroup>
+</table>
+</section>
+
+<section id="fs-idp27974464" class="ost-tag-lo-k12phys-ch04-s03-lo01"><title>Describing Newton's Second Law of Motion</title><note id="eip-536" class="os-teacher"><label>Teacher Edition</label><para id="eip-idp138112"><span class="level-below">[BL]</span><span class="level-on">[OL]</span> Review the concepts of inertia and Newton’s first law. Explain that, according to Newton’s First Law, a change in motion is caused by an external force. For instance, a ball that is pitched changes its speed and direction when it is hit by a bat.</para><para id="fs-id1170292274943">
+<span class="level-below">[BL]</span><span class="level-on">[OL]</span><span class="level-above">[AL]</span> Write the equation for Newton’s Second Law and show how it can be solved for all three variables, F, m, and a. Explain the practical implications for each case. Ask students how the other two variables would behave if one quantity is held constant.</para><note id="eip-idp46715712" class="ost-misconception">
+  <label>Misconception Alert</label>Students might confuse the terms “equal” and “proportional.”
+</note></note>
+
+
+<para id="eip-853">Newton’s first law considered bodies at rest or bodies in motion at constant velocity. The other state of motion to consider is when an object is moving with a changing velocity, which means a change in either the speed and/or the direction of motion. This type of motion is addressed by <term>Newton’s second law of motion</term>, which states how force causes changes in motion. Newton’s second law of motion is used to calculate what happens in situations involving forces and motion, and it shows the mathematical relationship between force, mass, and acceleration. Mathematically, the second law is most often written as <equation id="eip-idm22052464" class="ost-tag-lo-phys-ch04-s03-lo01 ost-tag-lo-phys-ch04-s03-lo02"><label/><math xmlns="http://www.w3.org/1998/Math/MathML"><msub><mi>F</mi><mrow><mi>n</mi><mi>e</mi><mi>t</mi></mrow></msub><mo>=</mo><mi>m</mi><mi>a</mi></math></equation>where F<sub>net</sub> (or ∑F) is the net external force, m is the mass of the system, and a is the acceleration. Note that F<sub>net</sub> and ∑F are the same because the net external force is the sum of all of the external forces acting on the system.</para><para id="eip-231">First, what do we mean by “a change in motion”? A change in motion is simply a change in velocity: the velocity of an object can get bigger or smaller, its direction can change, or both. A change in velocity means, by definition, that an acceleration has occurred. Newton’s first law says that only a nonzero net external force can cause a change in motion, so a net external force must cause an acceleration. Note that “acceleration” can refer to slowing down or to speeding up. Acceleration can also refer to a change in the direction of motion with no change in speed, because acceleration is the change in velocity divided by the time it takes for that change to occur, and velocity is defined by speed and direction.</para>
+<para id="eip-187">The equation <math xmlns="http://www.w3.org/1998/Math/MathML"><msub><mi>F</mi><mrow><mi>n</mi><mi>e</mi><mi>t</mi></mrow></msub><mo>=</mo><mi>m</mi><mi>a</mi></math> or <math xmlns="http://www.w3.org/1998/Math/MathML"><mo>∑</mo><mi>F</mi><mo>=</mo><mi>m</mi><mi>a</mi></math>can be used for:<list id="eip-idp32283488" list-type="enumerated" number-style="lower-alpha"><item>Speed<list id="eip-idp56654400" list-type="enumerated"><item><math xmlns="http://www.w3.org/1998/Math/MathML"><mi>a</mi><mo>=</mo><mfrac><msub><mi>F</mi><mrow><mi>n</mi><mi>e</mi><mi>t</mi></mrow></msub><mi>m</mi></mfrac></math> or <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>a</mi><mo>=</mo><mfrac><mrow><mo>∑</mo><mi>F</mi></mrow><mi>m</mi></mfrac></math></item><item><math xmlns="http://www.w3.org/1998/Math/MathML"><mi>a</mi><mo>∝</mo><msub><mi>F</mi><mrow><mi>n</mi><mi>e</mi><mi>t</mi></mrow></msub></math></item></list></item><item>Direction</item><item>Velocity</item></list></para><para id="eip-80">From the equation F<sub>net</sub>=ma, we see that force is directly proportional to both mass and acceleration, which makes sense. To accelerate two objects from rest to the same velocity, you would expect more force to be required to accelerate the more massive object. Likewise, for two objects of the same mass, applying a greater force to one would accelerate it to a greater velocity.</para><para id="eip-873">Now, let’s rearrange Newton’s second law to solve for acceleration. We get<equation id="eip-idp42052864"><math xmlns="http://www.w3.org/1998/Math/MathML"><mi>a</mi><mo>=</mo><mfrac><msub><mi>F</mi><mrow><mi>n</mi><mi>e</mi><mi>t</mi></mrow></msub><mi>m</mi></mfrac><mo> </mo><mi>o</mi><mi>r</mi><mo> </mo><mo> </mo><mo> </mo><mi>a</mi><mo>=</mo><mfrac><mrow><mo>∑</mo><mi>F</mi></mrow><mi>m</mi></mfrac></math></equation></para><para id="eip-334">In this form, it’s clear that acceleration is directly proportional to force, which we write as
+<equation id="eip-503"><math xmlns="http://www.w3.org/1998/Math/MathML"><mi>a</mi><mo>∝</mo><mi>F</mi></math></equation></para><para id="eip-512">where the symbol SYMBOL means “proportional to.” 
+</para><para id="eip-981">This proportionality states mathematically what we just said in words—acceleration is directly proportional to the net external force. When two variables are directly proportional to each other, then if one variable doubles, the other variable must double. Likewise, if one variable is reduced by half, the other variable must also be reduced by half. In general, when one variable is multiplied by a number, the other variable will also be multiplied by the same number. It seems reasonable that the acceleration of a system should be directly proportional to and in the same direction as the net external force acting on the system. An object experiences greater acceleration when acted on by a greater force.
+</para><para id="eip-840">It is also clear from the equation <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>a</mi><mo>=</mo><msub><mi>F</mi><mrow><mi>n</mi><mi>e</mi><mi>t</mi></mrow></msub><mo>/</mo><mi>m</mi></math> that acceleration is inversely proportional to mass, which we write as
+<equation id="eip-16"><math xmlns="http://www.w3.org/1998/Math/MathML"><mi>a</mi><mo>∝</mo><mfrac><mn>1</mn><mi>m</mi></mfrac></math></equation></para><para id="eip-562">Inversely proportional means that, if one variable is multiplied by a number, the other variable must be divided by the same number. Now, it also seems reasonable that acceleration should be inversely proportional to the mass of the system. In other words, the larger the mass (the inertia), the smaller the acceleration produced by a given force. This is illustrated in Figure 04_03_basketball, which shows that a given net external force applied to a basketball produces a much greater acceleration than when applied to a car. </para><table id="eip-114" summary="--"><label/><title>Section testing table</title><tgroup cols="3"><thead>  <row>
+    <entry>Forces</entry>
+    <entry>Equations</entry>
+  </row>
+</thead>
+<tbody>
+  <row>
+    <entry><emphasis effect="italics">Newton's second law of motion</emphasis></entry>
+    <entry><m:math><m:mrow><m:msub><m:mtext fontweight="bold">F</m:mtext><m:mtext>net</m:mtext></m:msub><m:mo>=</m:mo><m:mi>m</m:mi><m:mtext fontweight="bold">a</m:mtext></m:mrow></m:math></entry>
+
+  </row>
+  <row>
+    <entry><emphasis effect="italics">acceleration</emphasis></entry>
+    <entry><list id="eip-idp23685376"><item><m:math><m:mrow><m:mtext fontweight="bold">a</m:mtext><m:mo>=</m:mo><m:mfrac><m:msub><m:mtext fontweight="bold">F</m:mtext><m:mtext>net</m:mtext></m:msub><m:mi>m</m:mi></m:mfrac></m:mrow></m:math> or 
+<m:math><m:mrow><m:mtext fontweight="bold">a</m:mtext><m:mo>=</m:mo><m:mfrac><m:mrow><m:mtext>Σ</m:mtext><m:mtext fontweight="bold">F</m:mtext></m:mrow><m:mi>m</m:mi></m:mfrac></m:mrow></m:math></item>
+<item><m:math><m:mrow><m:mtext fontweight="bold">a</m:mtext><m:mo>∝</m:mo><m:msub><m:mtext fontweight="bold">F</m:mtext><m:mtext>net</m:mtext></m:msub></m:mrow></m:math></item>
+</list>
+</entry>
+  </row>
+  <row>
+    <entry><emphasis effect="italics">mass</emphasis></entry>
+    <entry><m:math><m:mrow><m:mi>a</m:mi><m:mo>∝</m:mo><m:mfrac><m:mn>1</m:mn><m:mi>m</m:mi></m:mfrac></m:mrow></m:math></entry>
+
+  </row>
+</tbody>
+
+
+</tgroup>
+
+<caption>Use this table to find the different equations provided in this section.</caption></table>
+
+<figure id="fs-idp44754944"><media id="fs-idm38376736" alt="Alt text"><image mime-type="image/jpeg" src="../../media/Figure 04_03_basketball.png"/></media><caption>A boy pushing a basketball and an SUV, demonstrating the inverse relationship between acceleration and mass</caption></figure>
+<para id="fs-idp44844032" class="ost-tag-lo-k12phys-ch04-s03-lo01">The same force exerted on systems of different mass produces different accelerations. (a) A boy pushes a basketball to make a pass. The effect of gravity on the ball is ignored. (b) The same boy pushing with identical force on a stalled car produces a far smaller acceleration (friction is negligible). Note that the free-body diagrams for the ball and for the car are identical, which allows us to compare the two situations.</para></section>
+
+<section id="fs-idp37525872" class="ost-tag-lo-k12phys-ch04-s03-lo02"><title>Applying Newton’s Second Law</title>
+
+<note id="fs-idp33755488" class="os-teacher"><label>Teacher Edition</label><para id="fs-idp59445856"><span class="level-below">[BL]</span>Review how to convert between units.<newline/>
+<span class="level-on">[OL]</span><span class="level-above">[AL]</span>Ask students to give examples of Newton’s Second Law.</para><note id="fs-idp32985664" class="ost-misconception">
+  <label>Misconception Alert</label>Students might confuse weight, which is a force, and g, which is the acceleration due to gravity.
+</note>
+<para id="fs-idm42543664"><span class="level-below">[BL]</span><span class="level-on">[OL]</span><span class="level-above">[AL]</span>Talk about people’s weight. Ask them what they think they would weigh on the moon. Talk about the difference between mass and weight.</para>
+</note>
+
+
+<para id="fs-idp92945232">Before putting Newton’s second law into action, it is important to consider units.
+The equation <emphasis effect="italics">F<sub>net</sub> = ma</emphasis> is used to define the units of force in terms of the three basic units of mass, length, and time (recall that acceleration has units of length divided by time squared). The SI unit of force is called the <term> newton </term> (abbreviated N) and is the force needed to accelerate a 1 kg system at the rate of <math xmlns="http://www.w3.org/1998/Math/MathML"><mn>1</mn><mo> </mo><mi>m</mi><mo>/</mo><msup><mi>s</mi><mn>2</mn></msup></math>. That is, because <math xmlns="http://www.w3.org/1998/Math/MathML"><msub><mi>F</mi><mrow><mi>n</mi><mi>e</mi><mi>t</mi></mrow></msub><mo>=</mo><mi>m</mi><mi>a</mi></math>, we have</para><equation id="fs-idm47904816"><label/><math xmlns="http://www.w3.org/1998/Math/MathML"><mn>1</mn><mi>N</mi><mo>=</mo><mn>1</mn><mi>k</mi><mi>g</mi><mo>*</mo><mn>1</mn><mi>m</mi><mo>/</mo><msup><mi>s</mi><mn>2</mn></msup><mo>=</mo><mn>1</mn><mfrac><mrow><mi>k</mi><mi>g</mi><mo>·</mo><mi>m</mi></mrow><msup><mi>s</mi><mn>2</mn></msup></mfrac></math></equation>
+
+<para id="fs-idm26521136">One of the most important applications of Newton’s second law is to calculate <term>weight</term> (also known as the gravitational force), which is usually represented mathematically as <term><emphasis effect="italics">W</emphasis></term>. When people talk about gravity, they don’t always realize that it is an acceleration. When an object is dropped, it accelerates toward the center of Earth. Newton’s second law states that the net external force acting on an object is responsible for the acceleration of the object. If air resistance is negligible, the net external force on a falling object is only the gravitational force (i.e., the weight of the object). </para><para id="fs-idm118021760">Weight can be represented by a vector because it has a direction. Down is defined as the direction in which gravity pulls, so weight is normally considered a downward force. By using Newton’s second law, we can figure out the equation for weight. </para>
+
+<para id="fs-idp13875040">Consider an object with mass <emphasis effect="italics">m</emphasis> falling toward Earth. It experiences only the force of gravity (i.e. the gravitational force or weight), which is represented by <term>W</term>. Newton’s second law states that <term><math xmlns="http://www.w3.org/1998/Math/MathML"><msub><mi>F</mi><mrow><mi>n</mi><mi>e</mi><mi>t</mi></mrow></msub><mo>=</mo><mi>m</mi><mi>a</mi></math></term> . Since the only force acting on the object is the gravitational force, we have <term><math xmlns="http://www.w3.org/1998/Math/MathML"><msub><mi>F</mi><mrow><mi>n</mi><mi>e</mi><mi>t</mi></mrow></msub><mo>=</mo><mi>W</mi></math></term>. We know that the acceleration of an object due to gravity is <emphasis effect="italics">g</emphasis>, so we have <term><math xmlns="http://www.w3.org/1998/Math/MathML"><mi>a</mi><mo>=</mo><mi>g</mi></math></term>. Substituting these two expressions into Newton’s second law gives</para><equation id="eip-529"><label/><math xmlns="http://www.w3.org/1998/Math/MathML"><mi>W</mi><mo>=</mo><mi>m</mi><mi>g</mi></math></equation><para id="fs-idp8541664">This is the equation for weight—the gravitational force on a mass <emphasis effect="italics">m</emphasis>. On Earth,<math xmlns="http://www.w3.org/1998/Math/MathML"><mi>g</mi><mo>=</mo><mn>9</mn><mo>.</mo><mn>80</mn><mi>m</mi><mo>/</mo><msup><mi>s</mi><mn>2</mn></msup></math> , so the weight (disregarding for now the direction of the weight) of a 1.0 kg object on Earth is</para><equation id="fs-id1169633640841"><label/><math xmlns="http://www.w3.org/1998/Math/MathML"><mi>W</mi><mo>=</mo><mi>m</mi><mi>g</mi><mo>=</mo><mo>(</mo><mn>1</mn><mo>.</mo><mn>0</mn><mi>k</mi><mi>g</mi><mo>)</mo><mo>(</mo><mn>9</mn><mo>.</mo><mn>80</mn><mo> </mo><mi>m</mi><mo>/</mo><msup><mi>s</mi><mn>2</mn></msup><mo>)</mo><mo>=</mo><mn>9</mn><mo>.</mo><mn>8</mn><mi>N</mi></math></equation><para id="fs-idp19230720">Although most of the world uses newtons as the unit of force, in the United States the most familiar unit of force is the pound (lb), where 1 N = 0.225 lb. </para>
+
+<para id="fs-idm44672656">Recall that, although gravity acts downward, it can be assigned a positive or negative value, depending on the positive direction in your chosen coordinate system. Be sure to take this into consideration when solving problems with weight. When the downward direction is taken to be negative, as is often the case, acceleration due to gravity becomes <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>g</mi><mo>=</mo><mo>-</mo><mn>9</mn><mo>.</mo><mn>8</mn><mo> </mo><mi>m</mi><mo>/</mo><msup><mi>s</mi><mn>2</mn></msup></math>.</para>
+
+<para id="fs-idm28725632">When the net external force on an object is its weight, we say that it is in <term>freefall</term>. In this case, the only force acting on the object is the force of gravity. On the surface of Earth, when objects fall downward toward Earth, they are never truly in freefall because there is always some upward force due to the air resistance that acts on the object (and there is also the buoyancy force of air, which is similar to the buoyancy force in water that keeps boats afloat).</para><para id="fs-idm27497904">Gravity varies slightly over the surface of Earth, so that the weight of an object depends very slightly on its location on Earth. Weight varies dramatically away from Earth’s surface. On the Moon, for example, the acceleration due to gravity is only <math xmlns="http://www.w3.org/1998/Math/MathML"><mn>1</mn><mo>.</mo><mn>67</mn><mo> </mo><mi>m</mi><mo>/</mo><msup><mi>s</mi><mn>2</mn></msup></math>. Because weight depends on the force of gravity, a 1.0 kg mass weighs 9.8 N on Earth and only about 1.7 N on the Moon.
+It is important to remember that weight and mass are very different, although they are closely related. Mass is the quantity of matter (how much “stuff”) in an object and does not vary, but weight is the gravitational force on an object and is proportional to the force of gravity. It is easy to confuse the two, because our experience is confined to Earth, and the weight of an object is essentially the same no matter where you are on Earth. Adding to the confusion, the terms mass and weight are often used interchangeably in everyday language; for example, our medical records often show our “weight” in kilograms, but never in the correct units of newtons.</para>
+
+<note id="fs-idm28711360" class="ost-­assignable ost-­reading-­discard ost-­assessed-­feature snap-­lab students-­1 safety-­warning ost-tag-lo-k12phys-ch04-s03-lo01"><label>Snap Lab</label><title>Mass and Weight</title>
+  
+  <para id="fs-idm2950544">In this activity you will use a scale to investigate mass and weight. </para>
+
+<figure id="fs-idm69029728"><media id="fs-idm91642768" alt="Alt text"><image mime-type="image/jpeg" src="../../media/Figure_04_04_vectors.png"/></media></figure>
+
+  <list id="fs-idm94709104" class="materials"><label>Materials</label>
+    <item>1 scale</item><item>1 table (<link target-id="fs-idm94709104"/>)</item></list><list id="fs-idm4146416" class="warnings"><label>Safety Warning</label>
+    <item>Organisms: This lab uses organisms that can pass on diseases.</item>
+  </list><para id="fs-idm39565600"><list id="fs-idm2283296" list-type="enumerated"><item>What do bathroom scales measure?</item>
+<item>When you stand on a bathroom scale, what happens to the scale? It depresses slightly. The scale contains springs that compress in proportion to your weight—similar to rubber bands expanding when pulled. <term>Newton’s 1st law</term>: <math xmlns="http://www.w3.org/1998/Math/MathML"><msub><mi>F</mi><mrow><mi>n</mi><mi>e</mi><mi>t</mi></mrow></msub><mo>=</mo><mn>0</mn><mo> </mo><mi>o</mi><mi>r</mi><mo> </mo><mo> </mo><mo>(</mo><mo>∑</mo><mi>F</mi><mo>=</mo><mn>0</mn><mo>)</mo></math></item>
+
+<item>The springs provide a measure of your weight (provided you are not accelerating). This is a force in newtons (or pounds). In most countries, the measurement is now divided by 9.80 to give a reading in kilograms, which are units of mass. The scale detects weight but is calibrated to display mass.</item>
+
+<item>If you went to the Moon and stood on your scale, would it detect the same “mass” as it did on Earth? How about:<list id="fs-idm13464960" list-type="enumerated" number-style="lower-alpha"><item>Mars</item><item>Venus</item><item>Saturn</item></list>
+</item></list></para><table id="eip-404" summary="--">
+<tgroup cols="3"><thead>
+<row>
+<entry>Planet</entry>
+<entry>Mass</entry>
+<entry>Weight: <math xmlns="http://www.w3.org/1998/Math/MathML"><mo>(</mo><msub><mi>F</mi><mrow><mi>n</mi><mi>e</mi><mi>t</mi></mrow></msub><mo>=</mo><mn>0</mn><mo> </mo><mi>o</mi><mi>r</mi><mo> </mo><mo> </mo><mo>(</mo><mo>∑</mo><mi>F</mi><mo>=</mo><mn>0</mn><mo>)</mo><mo>)</mo></math></entry>
+</row>
+</thead>
+<tbody>
+  <row>
+    <entry>Mars</entry>
+    <entry>12 kg</entry>
+    <entry>5N</entry>
+  </row>
+  <row>
+    <entry>Venus</entry>
+    <entry>20 kg</entry>
+    <entry>90N</entry>
+  </row>
+  <row>
+    <entry>Saturn</entry>
+    <entry>1 kg</entry>
+    <entry>13N</entry>
+  </row>
+</tbody>
+
+</tgroup><caption>This table shows the differences in mass and weights on different planets. 
+</caption>
+</table>
+
+<exercise id="fs-idp39494048" class="os-exercise grasp-check"><label>Grasp Check</label><problem id="eip-idm47423520">
+      <para id="eip-idm56138960"><link class="os-embed" url="#ost/api/ex/k12phys-ch04-ex067"/></para>
+    </problem></exercise>
+
+<note id="fs-idm4638560" class="os-teacher"><label>Teacher Edition</label><para id="fs-idp28067424">Explain that, even though a scale gives a mass, it actually measures weight. Scales are calibrated to show the correct mass on Earth. They would give different results on the Moon, because the force of gravity is weaker on the Moon.</para></note></note><note id="eip-489" class="tips-for-success"><label>Tips for Success</label>
+Only <emphasis effect="italics">net external force</emphasis> impacts the acceleration of an object. If more than one force acts on an object and you calculate the acceleration by using only one of these forces, you will not get the correct acceleration for the object.</note><note id="fs-idm126764112" class="watch-physics ost-assessed-feature ost-video ost-tag-lo-k12phys-ch04-s03-lo02"><label>Watch Physics</label><title>Newton’s second law of motion</title>
+<para id="eip-idm45651456">This video reviews Newton's second law of motion <math xmlns="http://www.w3.org/1998/Math/MathML"><mo>(</mo><msub><mi>F</mi><mrow><mi>n</mi><mi>e</mi><mi>t</mi></mrow></msub><mo>=</mo><mn>0</mn><mo> </mo><mi>o</mi><mi>r</mi><mo> </mo><mo> </mo><mo>(</mo><mo>∑</mo><mi>F</mi><mo>=</mo><mn>0</mn><mo>)</mo><mo>)</mo></math> and how net external force and acceleration relate to one another and to mass. It also covers units of force, mass, and acceleration and goes over a sample problem.</para><media id="fs-id1167246460624" alt="..."> <iframe width="660" height="371.4" src="https://www.khanacademy.org/embed_video?v=ou9YMWlJgkE"/></media><para id="eip-497">Newton's other laws:
+<list id="eip-idp11243216">
+<item>Newton's first law of motion</item>
+<item>Newton's third law of motion</item>
+</list></para>
+<exercise id="eip-idm14763568" class="os-exercise grasp-check"><label>Grasp Check</label><problem id="eip-idm71907216">
+      <para id="eip-idm3818704"><link class="os-embed" url="#ost/api/ex/k12phys-ch04-ex068"/></para>
+    </problem></exercise></note>
+
+<note id="fs-idm57404832" class="ost-feature worked-examples ost-tag-lo-k12phys-ch04-s03-lo02">
+<label>Worked Examples</label>
+  <exercise id="fs-idm309184" class="ost-k12phys-ch04-ex135"><label/><title>What Acceleration Can a Person Produce when Pushing a Lawn Mower?</title>
+    <problem id="fs-idm48673312"><para id="fs-idm15799744">Suppose that the net external force (push minus friction) exerted on a lawn mower is 51 N parallel to the ground. The mass of the mower is 240 kg. What is its acceleration?</para><figure id="fs-idm1647952"><media id="fs-idm548496" alt="Alt text"><image mime-type="image/jpeg" src="../../media/OST_PhysicsTestContent_01_03_01.jpg"/></media></figure>
+<note id="fs-idm2323376"><label/><title>Strategy</title><para id="fs-idp4233424">Since <math xmlns="http://www.w3.org/1998/Math/MathML"><msub><mi>F</mi><mrow><mi>n</mi><mi>e</mi><mi>t</mi></mrow></msub></math> and m are given, the acceleration can be calculated directly from Newton’s second law: <math xmlns="http://www.w3.org/1998/Math/MathML"><msub><mi>F</mi><mrow><mi>n</mi><mi>e</mi><mi>t</mi></mrow></msub><mo>=</mo><mi>m</mi><mi>a</mi></math>.</para></note></problem>
+
+<solution id="fs-idm24323280"><para id="fs-idm5975376">Solving Newton’s second law for the acceleration, we find that the magnitude of the acceleration, a, is <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>a</mi><mo>=</mo><mfrac><msub><mi>F</mi><mrow><mi>n</mi><mi>e</mi><mi>t</mi></mrow></msub><mi>m</mi></mfrac></math>. Entering the given values for net external force and mass gives <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>a</mi><mo>=</mo><mfrac><mrow><mn>51</mn><mi>N</mi></mrow><mrow><mn>240</mn><mi>k</mi><mi>g</mi></mrow></mfrac></math>.  Inserting the units <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>k</mi><mi>g</mi><mo>·</mo><mi>m</mi><mo>/</mo><msup><mi>s</mi><mn>2</mn></msup></math> for N yields <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>a</mi><mo>=</mo><mfrac><mrow><mn>51</mn><mo> </mo><mi>k</mi><mi>g</mi><mo>·</mo><mi>m</mi><mo>/</mo><msup><mi>s</mi><mn>2</mn></msup></mrow><mrow><mn>240</mn><mo> </mo><mi>k</mi><mi>g</mi></mrow></mfrac><mo>=</mo><mn>0</mn><mo>.</mo><mn>21</mn><mo> </mo><mi>m</mi><mo>/</mo><msup><mi>s</mi><mn>2</mn></msup></math>.</para></solution>
+
+    <commentary id="fs-idp6688976">
+<title>Discussion</title><note id="fs-idp15245728" class="tips-for-success">
+  <label>Tips for Success</label><list id="fs-idm18922864"><item>Correctly drawing and labeling a free-body diagram is an important first step for solving a problem.<list id="fs-idm97835408" list-type="enumerated"><item>What needs to be labeled?<list id="fs-idm1868944" list-type="enumerated" number-style="lower-alpha"><item>List three answers</item><item>Describe how you would label those three answers</item></list></item><item>How do you check to make sure that a diagram is correct?</item></list></item><item>Newton’s 1st law: <math xmlns="http://www.w3.org/1998/Math/MathML"><msub><mi>F</mi><mrow><mi>n</mi><mi>e</mi><mi>t</mi></mrow></msub><mo>=</mo><mn>0</mn></math></item></list></note>
+<para id="fs-idm16715168">The acceleration is in the same direction as the net external force, which is parallel to the ground and to the right. There is no information given in this example about the individual external forces acting on the system, but we can say something about their relative magnitudes. For example, the force exerted by the person pushing the mower must be greater than the friction opposing the motion because we are given that the net external force is in the direction in which the person pushes. Also, the vertical forces must cancel if there is no acceleration in the vertical direction (the mower is moving only horizontally). The acceleration found is reasonable for a person pushing a mower; the mower’s speed must increase by 0.21 m/s every second, which is possible. The time during which mower accelerates would not be very long because the person’s top speed would soon be reached. At this point, the person could push a little less hard, because he only has to overcome friction.</para></commentary>
+  </exercise>
+
+<exercise id="eip-idm74985056" class="ost-k12phys-ch04-ex136"><label/><title>What Rocket Thrust Accelerates This Sled?</title>
+<problem id="eip-idm56641616"><para id="eip-idp76975696">Prior to manned space flights, rocket sleds were used to test aircraft, missile equipment, and physiological effects on humans at high accelerations. Rocket sleds consisted of a platform mounted on one or two rails and propelled by several rockets.</para>
+<para id="eip-idm44791408">Calculate the magnitude of force exerted by each rocket, called its thrust T, for the four-rocket propulsion system shown below. The sled’s initial acceleration is 49 m/s2, the mass of the system is 2100 kg, and the force of friction opposing the motion is 650 N.</para><table id="eip-859" summary="--"><title>Sample problem testing table</title>
+<tgroup cols="2"><tbody>
+  <row>
+    <entry><term>Types of Links</term></entry>
+    <entry><term>URLs</term></entry>
+  </row>
+  <row>
+    <entry>External link</entry>
+    <entry>http://upload.wikimedia.org/wikipedia/commons/0/00/Herrenhaustag_MI_Juni_2009_205.jpg</entry>
+  </row>
+  <row>
+    <entry>Internal link</entry>
+    <entry>http://cnx.org/contents/b3c1e1d2-839c-42b0-a314-e119a8aafbdd@8.53:49/Concepts_of_Biology</entry>
+  </row>
+</tbody>
+
+</tgroup>
+</table><note id="eip-idp41304112"><label/><title>Strategy</title>
+<para id="eip-idp88081696">The system of interest is the rocket sled. Although forces act vertically on the system, they must cancel because the system does not accelerate vertically. This leaves us with only horizontal forces to consider. We’ll assign the direction to the right as the positive direction. See the free-body diagram in the figure.</para>
+</note></problem>
+
+<solution id="eip-idm12222400"><para id="eip-idm30951344">We start with Newton’s second law and look for ways to find the thrust <term>T</term> of the engines. Because all forces and acceleration are along a line, we need only consider the magnitudes of these quantities in the calculations. We begin with<equation id="eip-idp15034416"><math xmlns="http://www.w3.org/1998/Math/MathML"><msub><mi>F</mi><mrow><mi>n</mi><mi>e</mi><mi>t</mi></mrow></msub><mo>=</mo><mi>m</mi><mi>a</mi></math></equation>where <math xmlns="http://www.w3.org/1998/Math/MathML"><msub><mi>F</mi><mrow><mi>n</mi><mi>e</mi><mi>t</mi></mrow></msub></math> is the net external force in the horizontal direction. We can see from the image above that the engine thrusts are in the same direction (which we call the positive direction), whereas friction opposes the thrust. In equation form, the net external force is<equation id="eip-idm103225472"><math xmlns="http://www.w3.org/1998/Math/MathML"><msub><mi>F</mi><mrow><mi>n</mi><mi>e</mi><mi>t</mi></mrow></msub><mo>=</mo><mn>4</mn><mi>T</mi><mo>-</mo><mi>f</mi></math></equation></para><list id="eip-idp62128400"><item>Newton’s second law tells us that <math xmlns="http://www.w3.org/1998/Math/MathML"><msub><mi>F</mi><mrow><mi>n</mi><mi>e</mi><mi>t</mi></mrow></msub><mo>=</mo><mi>m</mi><mi>a</mi></math>, so we get</item>
+<item><math xmlns="http://www.w3.org/1998/Math/MathML"><mi>m</mi><mi>a</mi><mo>=</mo><mn>4</mn><mi>T</mi><mo>-</mo><mi>f</mi></math></item>
+<item>After a little algebra we solve for the total thrust 4T:</item>
+<item><math xmlns="http://www.w3.org/1998/Math/MathML"><mn>4</mn><mi>T</mi><mo>=</mo><mi>m</mi><mi>a</mi><mo>+</mo><mi>f</mi></math></item>
+<item>which means that the individual thrust is</item>
+<item><math xmlns="http://www.w3.org/1998/Math/MathML"><mi>T</mi><mo>=</mo><mfrac><mrow><mi>m</mi><mi>a</mi><mo>+</mo><mi>f</mi></mrow><mn>4</mn></mfrac></math></item>
+<item>Inserting the known values yields</item>
+<item><math xmlns="http://www.w3.org/1998/Math/MathML"><mi>T</mi><mo>=</mo><mfrac><mrow><mo>(</mo><mn>2100</mn><mi>k</mi><mi>g</mi><mo>)</mo><mo>(</mo><mn>49</mn><mo> </mo><mi>m</mi><mo>/</mo><msup><mi>s</mi><mn>2</mn></msup><mo>)</mo><mo>+</mo><mn>650</mn><mi>N</mi></mrow><mn>4</mn></mfrac><mo>=</mo><mn>2</mn><mo>.</mo><mn>6</mn><mo>*</mo><msup><mn>10</mn><mn>4</mn></msup><mi>N</mi></math></item></list></solution>
+
+<commentary id="eip-idp149130112"><title>Discussion</title><para id="eip-idp36427040">The numbers are quite large, so the result might surprise you. Experiments such as this were performed in the early 1960s to test the limits of human endurance and to test the apparatus designed to protect fighter pilots in emergency ejections. Speeds of 1000 km/h were obtained, with accelerations of 45g. (Recall that g, the acceleration due to gravity, is <math xmlns="http://www.w3.org/1998/Math/MathML"><mn>9</mn><mo>.</mo><mn>8</mn><mo> </mo><mi>m</mi><mo>/</mo><msup><mi>s</mi><mn>2</mn></msup></math>. An acceleration 45g is <math xmlns="http://www.w3.org/1998/Math/MathML"><mn>45</mn><mo>*</mo><mn>9</mn><mo>.</mo><mn>8</mn><mo> </mo><mi>m</mi><mo>/</mo><msup><mi>s</mi><mn>2</mn></msup></math>, which is approximately <math xmlns="http://www.w3.org/1998/Math/MathML"><mn>440</mn><mo> </mo><mi>m</mi><mo>/</mo><msup><mi>s</mi><mn>2</mn></msup></math>.) Living subjects are no longer used, and land speeds of 10,000 km/h have now been obtained with rocket sleds. In this example, as in the preceding example, the system of interest is clear. We will see in later examples that choosing the system of interest is crucial—and that the choice is not always obvious.</para></commentary>
+</exercise></note>
+</section>
+
+<section id="fs-idp138595872" class="os-practice-problems ost-exercise-choice">
+  <title>Practice Problems</title>
+  <exercise id="fs-idp107672384" class="os-exercise"><problem id="fs-idp24454800">
+      <para id="fs-idp65042704"><link class="os-embed" url="#ost/api/ex/k12phys-ch04-ex069"/></para>
+    </problem>
+  </exercise><exercise id="fs-idp26114832" class="os-exercise"><problem id="fs-idp20676688">
+      <para id="fs-idp49400640"><link class="os-embed" url="#ost/api/ex/k12phys-ch04-ex070"/></para>
+    </problem>
+  </exercise></section>
+<note id="eip-636" class="links-to-physics ost-assessed-feature ost-tag-lo-k12phys-ch04-s03-lo01"><label>Links to Physics: History</label><title>Ptolemy vs. Copernicus</title>
+<para id="eip-811">
+Before the discoveries of Kepler, Copernicus, Galileo, Newton, and others, the solar system was thought to revolve around Earth as shown in Figure 04_03_solar_img (a). This is called the Ptolemaic (the P is silent) view, for the Greek philosopher who lived in the second century AD. This model is characterized by a list of facts for the motions of planets with no cause and effect explanation. There tended to be a different rule for each heavenly body and a general lack of simplicity.
+</para>
+<para id="eip-idp28458432">
+Figure 04_03_solar_img (b) represents the modern or <term>Copernican model</term>. In this model, a small set of rules and a single underlying force explain not only all motions in the solar system, but all other situations involving gravity. The breadth and simplicity of the laws of physics are compelling. As our knowledge of nature has grown, the basic simplicity of its laws has become ever more evident.
+</para>
+<para id="eip-idp70825872">
+Nicolaus Copernicus (1473 – 1543) first had the idea that the planets circle the Sun about 1514. It took him almost 20 years to work out the mathematical details for his model. He waited another 10 years or so to publish his work. It is thought he hesitated because he was afraid people would make fun of his theory. Actually, the reaction of many people was more one of fear and anger. Many people felt the Copernican model threatened their basic belief system. About 100 years later, the astronomer Galileo Galilei was arrested and put under house arrest for saying he thought the Earth traveled around the Sun. In all, it took almost 300 years for everyone to admit that Nicolaus had been right all along.</para><para id="eip-607">Astronomers:
+<list id="eip-idp15542768" list-type="enumerated" number-style="arabic"><item>Copernicus<list id="eip-idp91830816" list-type="enumerated" number-style="lower-alpha"><item>Planets circle the Sun</item>
+<item>Didn't share his ideas out of fear</item></list></item>
+<item>Galileo<list id="eip-idp35502560" list-type="enumerated" number-style="lower-alpha"><item>100 years later</item>
+<item>Put in prison</item></list></item></list></para>
+<exercise id="eip-idp19441680" class="os-exercise grasp-check"><label>Grasp Check</label><problem id="eip-idm252368">
+      <para id="eip-idp5709648"><link class="os-embed" url="#ost/api/ex/k12phys-ch04-ex075"/></para>
+    </problem></exercise></note><section id="eip-341" class="summary ost-reading-discard"><title>Section Summary</title><list id="eip-idm46809008"><item>Acceleration is a change in velocity, meaning a change in speed, direction, or both.</item>
+<item>An external force acts on a system from outside the system, as opposed to internal forces, which act between components within the system.</item>
+<item>Newton’s second law of motion states that the acceleration of a system is directly proportional to and in the same direction as the net external force acting on the system, and inversely proportional to the system’s mass.</item>
+<item>In equation form, Newton’s second law of motion is <math xmlns="http://www.w3.org/1998/Math/MathML"><msub><mi>F</mi><mrow><mi>n</mi><mi>e</mi><mi>t</mi></mrow></msub><mo>=</mo><mi>m</mi><mi>a</mi></math> or <math xmlns="http://www.w3.org/1998/Math/MathML"><mo>∑</mo><mi>F</mi><mo>=</mo><mi>m</mi><mi>a</mi></math>. This is sometimes written as <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>a</mi><mo>=</mo><mfrac><msub><mi>F</mi><mrow><mi>n</mi><mi>e</mi><mi>t</mi></mrow></msub><mi>m</mi></mfrac><mo> </mo><mo> </mo><mi>o</mi><mi>r</mi><mo> </mo><mo> </mo><mi>a</mi><mo>=</mo><mfrac><mrow><mo>∑</mo><mi>F</mi></mrow><mi>m</mi></mfrac></math>.</item>
+<item>The weight of an object of mass m is the force of gravity that acts on it. From Newton’s second law, weight is given by <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>W</mi><mo>=</mo><mi>m</mi><mi>g</mi></math></item></list></section><section id="fs-idp92485712" class="ost-reading-discard key-equations"><title>Key Equations</title><equation id="fs-idp93030080"><title>Newton's Second Law of Motion</title><math xmlns="http://www.w3.org/1998/Math/MathML"><msub><mi>F</mi><mrow><mi>n</mi><mi>e</mi><mi>t</mi></mrow></msub><mo>=</mo><mi>m</mi><mi>a</mi><mo> </mo><mo> </mo><mi>o</mi><mi>r</mi><mo> </mo><mo> </mo><mo>∑</mo><mi>F</mi><mo>=</mo><mi>m</mi><mi>a</mi></math></equation>
+  <equation id="fs-idp103504304"><title>Solving for acceleration</title><math xmlns="http://www.w3.org/1998/Math/MathML"><mi>a</mi><mo>=</mo><mfrac><msub><mi>F</mi><mrow><mi>n</mi><mi>e</mi><mi>t</mi></mrow></msub><mi>m</mi></mfrac><mo> </mo><mo> </mo><mi>o</mi><mi>r</mi><mo> </mo><mo> </mo><mi>a</mi><mo>=</mo><mfrac><mrow><mo>∑</mo><mi>F</mi></mrow><mi>m</mi></mfrac></math></equation>
+<equation id="eip-idp18044048"><title>Solving for weight</title><math xmlns="http://www.w3.org/1998/Math/MathML"><mi>W</mi><mo>=</mo><mi>m</mi><mi>g</mi></math></equation>
+</section><section id="fs-idp91172160" class="os-practice-concepts ost-reading-discard">
+  <title>Check Your Understanding</title>
+  <exercise id="fs-idm22586928" class="os-exercise">
+    <problem id="fs-idm27154736">
+      <para id="fs-idm657984"><link class="os-embed" url="dummy.html"/></para>
+    </problem>
+  </exercise>
+  <exercise id="fs-idp5130480" class="os-exercise">
+    <problem id="fs-idp54616464">
+      <para id="fs-idp54629168"><link class="os-embed" url="dummy.html"/></para>
+    </problem>
+  </exercise>
+</section>
+<section id="fs-idm36183296" class="ost-reading-discard ost-chapter-review concept"><title>Concept Items</title><exercise id="fs-idp65812944" class="os-exercise">
+    <problem id="fs-idp96005360">
+      <para id="fs-idp48691360"><link class="os-embed" url="#ost/api/ex/k12phys-ch04-ex082"/></para>
+    </problem>
+  </exercise>
+</section>
+<section id="fs-idm31984096" class="ost-reading-discard ost-chapter-review critical-thinking"><title>Critical Thinking Items</title><exercise id="fs-idm20419024" class="os-exercise">
+    <problem id="fs-idm37871728">
+      <para id="fs-idm73686288"><link class="os-embed" url="#ost/api/ex/k12phys-ch04-ex085"/></para>
+    </problem>
+  </exercise>
+</section>
+<section id="fs-idp22609248" class="ost-reading-discard ost-test-prep multiple-choice">
+  <title>Test Prep Multiple Choice</title>
+  <exercise id="fs-idp8990000" class="os-exercise">
+    <problem id="fs-idp54008880">
+      <para id="fs-idp22599712"><link class="os-embed" url="#ost/api/ex/k12phys-ch04-ex094"/></para>
+    </problem>
+  </exercise>
+  <exercise id="fs-idp9868032" class="os-exercise">
+    <problem id="fs-idm26323264">
+      <para id="fs-idp22593232"><link class="os-embed" url="#ost/api/ex/k12phys-ch04-ex095"/></para>
+    </problem>
+  </exercise>
+</section>
+<section id="fs-idp10427616" class="ost-reading-discard ost-test-prep short-answer"><title>Test Prep Short Answer</title><exercise id="fs-idp2641024" class="os-exercise">
+    <problem id="fs-idp5991536">
+      <para id="fs-idp96951408"><link class="os-embed" url="#ost/api/ex/k12phys-ch04-ex096"/></para>
+    </problem>
+  </exercise>
+  <exercise id="fs-idp5893792" class="os-exercise">
+    <problem id="fs-idp5405296">
+      <para id="fs-idp71424016"><link class="os-embed" url="#ost/api/ex/k12phys-ch04-ex097"/></para>
+    </problem>
+  </exercise>
+<exercise id="fs-idm52463648" class="os-exercise">
+    <problem id="fs-idp27208096">
+      <para id="fs-idp39645504"><link class="os-embed" url="#ost/api/ex/k12phys-ch04-ex098"/></para>
+    </problem>
+  </exercise>
+<exercise id="fs-idm9702352" class="os-exercise">
+    <problem id="fs-idm16796816">
+      <para id="fs-idp6009008"><link class="os-embed" url="#ost/api/ex/k12phys-ch04-ex099"/></para>
+    </problem>
+  </exercise>
+</section><section id="fs-idm4339776" class="ost-reading-discard ost-test-prep extended-response">
+  <title>Extended Response</title><exercise id="fs-idm19883760" class="os-exercise">
+    <problem id="fs-idp9969440">
+      <para id="fs-idm2923776"><link class="os-embed" url="#ost/api/ex/k12phys-ch04-ex100"/></para>
+    </problem>
+  </exercise>
+  <exercise id="fs-idm2276704" class="os-exercise">
+    <problem id="fs-idm24896000">
+      <para id="fs-idm12321792"><link class="os-embed" url="#ost/api/ex/k12phys-ch04-ex101"/></para>
+    </problem>
+  </exercise>
+</section>
+</content>
+<glossary>
+<definition id="fs-idm36153200"><term>freefall</term><meaning id="fs-idm30627808">a situation in which the only force acting on an object is the force of gravity (Fnet = 0 (or ∑F = 03)</meaning></definition>
+<definition id="fs-idm10173840"><term>Newton’s second law of motion</term><meaning id="fs-idm27450064">the net external force <math xmlns="http://www.w3.org/1998/Math/MathML"><msub><mi>F</mi><mrow><mi>n</mi><mi>e</mi><mi>t</mi></mrow></msub></math> on an object is proportional to and in the same direction as the acceleration of the object, a, and also proportional to the object’s mass m; defined mathematically as Fnet = ma or <math xmlns="http://www.w3.org/1998/Math/MathML"><mo>∑</mo><mi>F</mi><mo>=</mo><mi>m</mi><mi>a</mi></math></meaning></definition>
+<definition id="fs-idp62026096"><term>weight</term><meaning id="fs-idm27964240">the force of gravity, <term>W</term>, acting on an object of mass m; defined mathematically as <term>W</term> = m<term>g</term>, where g is the magnitude and direction of the acceleration due to gravity</meaning></definition>
+</glossary>
+</document>

@@ -1,0 +1,230 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+
+<title>Newton's First Law of Motion: Inertia</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m53227</md:content-id>
+  <md:title>Newton's First Law of Motion: Inertia</md:title>
+  <md:abstract/>
+  <md:uuid>61445f78-00e2-45ae-8e2c-461b17d9b4fd</md:uuid>
+</metadata>
+
+<content>
+
+<section id="fs-idp17120160" class="section-opener">
+<note id="fs-id1170447163852" class="learning-objectives"><label/>
+<title>Section learning Objectives</title>
+  <para id="eip-id1164171162579">By the end of this section you will be able to:</para>
+    <list id="eip-idp58500736"><item class="ost-learning-objective-def ost-tag-lo-k12phys-ch04-s02-lo01 ost-tag-teks-112-39-c-4d"> Describe Newton's first law and friction <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>a</mi><mo>∝</mo><mfrac><mn>1</mn><mi>m</mi></mfrac></math></item>
+    <item class="ost-learning-objective-def ost-tag-lo-k12phys-ch04-s02-lo02 ost-tag-teks-112-39-c-4d"> Discuss the relationship between mass and inertia</item>
+    </list></note>
+
+<note id="eip-887" class="os-teacher"><label>Teacher Edition</label><para id="eip-idm12575088">The Learning Objectives in this section will help your students master the following TEKS:</para> 
+<list id="fs-id1168852153252">
+  <item>(4) Science concepts. The student knows and applies the laws governing motion in a variety of situations. The student is expected to: 
+
+  <list id="fs-idp60294944">
+    <item class="ost-standards-def ost-standards-teks ost-tag-teks-112-39-c-4d">
+    <span class="ost-standards-name">(D)</span>
+    <span class="ost-standards-discard">:</span>
+    <span class="ost-standards-description"> calculate the effect of forces on objects, including the law of inertia, the relationship between force and acceleration, and the nature of force pairs between objects</span>
+</item>
+</list>
+</item>
+</list>
+</note><table id="eip-850" summary="--" class="key-terms ost-reading-discard unnumbered"><label/><title>Section Key Terms</title>
+<tgroup cols="3"><tbody>
+  <row>
+    <entry>friction</entry>
+    <entry>inertia</entry>
+    <entry>law of inertia</entry>
+  </row>
+  <row>
+    <entry>mass</entry>
+    <entry>Newton's first law of motion</entry>
+    <entry>system</entry>
+  </row>
+</tbody>
+
+</tgroup> 
+</table>
+
+<note id="eip-456" class="os-teacher"><label>Teacher Edition</label><para id="eip-idm59591792">Before students begin this section, it is useful to review the concepts of force, external force, net external force, and addition of forces.</para><para id="fs-id1165061947308">
+<span class="level-below">[BL]</span> <span class="level-on">[OL]</span> <span class="level-above">[AL]</span> Ask students to speculate what happens to objects when they are set in motion. Do they remain in motion or stop after some time? Why?</para><note id="eip-idm108977584" class="ost-misconception"><label>Misconception Alert</label>
+Students may believe that objects that are in motion tend to slow down and stop. Explain the concept of friction. Talk about objects in outer space, where there is no atmosphere and no gravity. Ask students to describe the motion of such objects.</note></note>
+
+<section id="eip-201" class="ost-tag-lo-k12phys-ch04-s02-lo01"><title>Newton's First Law and Friction</title><para id="eip-708"><term>Newton's first law of motion</term> states that:</para><list id="eip-idp55249424" list-type="enumerated"><item>A body at rest tends to stay at rest <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>a</mi><mo>∝</mo><mfrac><mn>1</mn><mi>m</mi></mfrac></math></item>
+<item>A body in motion tends to remain in motion at constant velocity unless acted on by a net external force (recall that “constant velocity” means in a straight line and at constant speed). <math xmlns="http://www.w3.org/1998/Math/MathML"><msub><mi>F</mi><mrow><mi>n</mi><mi>e</mi><mi>t</mi></mrow></msub><mo>=</mo><mn>0</mn></math> or (<math xmlns="http://www.w3.org/1998/Math/MathML"><mo>∑</mo><mi>F</mi><mo>=</mo><mn>0</mn></math>) </item>
+</list><section id="fs-id1164384570339"><title>Newton's 1<sup>st</sup> Law: <math xmlns="http://www.w3.org/1998/Math/MathML"><msub><mi>F</mi><mrow><mi>n</mi><mi>e</mi><mi>t</mi></mrow></msub><mo>=</mo><mn>0</mn></math> or (<math xmlns="http://www.w3.org/1998/Math/MathML"><mo>∑</mo><mi>F</mi><mo>=</mo><mn>0</mn></math>)</title>
+<note id="eip-659" class="os-teacher"><label>Teacher Edition</label>
+<para id="eip-idm30448560"><span class="level-below">[BL]</span>
+<span class="level-on">[OL]</span>
+<span class="level-above">[AL]</span> Discuss examples of Newton’s First Law seen in everyday life. <newline/>
+<span class="level-below">[BL]</span>
+<span class="level-on">[OL]</span>
+<span class="level-above">[AL]</span> Talk about different pairs of surfaces and how each exhibits different levels of friction. Ask students to give examples of smooth and rough surfaces. Ask them where friction may be useful and where it may be undesirable. <newline/>
+<span class="level-on">[OL]</span>
+<span class="level-above">[AL]</span> Ask students to give different examples of systems where multiple forces occur. Draw free-body diagrams for these. Include the force of friction. Emphasize the direction of the force of friction.</para></note>
+
+<para id="eip-545">At first glance, this law may seem to contradict your everyday experience. You have probably noticed that a moving object will usually slow down and stop unless some effort is made to keep it moving. The key to understanding why, for example, a sliding box slows down (seemingly on its own) is that a net external force acts on it to make it slow down. Without this net external force, the box would continue to slide at a constant velocity (as stated in Newton’s first law of motion). What force acts on the box to slow it down? It is called <term>friction</term>. Friction is an external force that acts opposite to the direction of motion (see <link target-id="eip-idm20864848"/>). Think of it as a resistance to motion that slows things down.</para><para id="eip-66">Friction:</para>
+
+<list id="eip-idp86047488" list-type="enumerated" number-style="arabic"><item>Goes in the opposite direction<figure id="fs-id1167215710288"><media id="eip-idm63937136" alt="Alt text"><image mime-type="image/jpeg" src="../../media/OST_PhysicsTestContent_01_02_02.jpg"/></media></figure></item>
+<item>Causes an object to slow down (<link target-id="eip-idm20864848"/>)</item></list><para id="eip-370">Consider an air hockey table. When the air is turned off, the puck slides only a short distance before friction slows it to a stop. However, when the air is turned on, it lifts the puck slightly so that the puck experiences very little friction as it moves over the surface. With friction almost eliminated, the puck glides along with very little change in speed. On a frictionless surface, the puck would experience no net external force (ignoring air resistance, which is also a form of friction). Additionally, if we know enough about friction, we can accurately predict how quickly objects will slow down.</para>
+
+<para id="eip-114">Now let’s think about another example. A man pushes a box across a floor at constant velocity by applying a force of +50 N (the positive sign indicates by convention that the direction of motion is to the right). What is the force of friction that opposes the motion? The force of friction must be −50 N. Why? According to Newton’s first law of motion, any object moving at constant velocity has no net external force acting upon it, which means that the sum of the forces acting on the object must be zero. The mathematical way to say that no net external force acts on an object is <math xmlns="http://www.w3.org/1998/Math/MathML"><msub><mi>F</mi><mrow><mi>n</mi><mi>e</mi><mi>t</mi></mrow></msub><mo>=</mo><mn>0</mn></math> , or <math xmlns="http://www.w3.org/1998/Math/MathML"><mo>∑</mo><mi>F</mi><mo>=</mo><mn>0</mn></math> . So if the man applies +50 N of force, then the force of friction must be −50 N for the two forces to add up to zero (i.e., “cancel” each other). Whenever you encounter the phrase “at constant velocity,” Newton’s first law tells you that the net external force is zero.</para><figure id="eip-idm83000688" class="ost-tag-lo-k12phys-ch04-s02-lo01"><media id="eip-idm83879248" alt="Alt text"><image mime-type="image/jpeg" src="../../media/OST_PhysicsTestContent_01_02_01.jpg"/></media><caption>For a box sliding across a floor, friction acts in the direction opposite to the velocity.</caption></figure><para id="eip-985">The force of friction depends on two things: the coefficient of friction and the normal force. The coefficient of friction is a constant that depends on the nature of the surfaces in contact with one another. The normal force is the force exerted by a surface that pushes on an object in response to gravity pulling the object down. In equation form, the force of friction is <equation id="eip-idp12074176"><label/><m:math><m:mrow><m:mi>f</m:mi><m:mo>=</m:mo><m:mi>μ</m:mi><m:mi>N</m:mi></m:mrow></m:math></equation>where μ is the coefficient of friction and N is the normal force. The coefficient of friction is discussed in more detail in the next chapter and the normal force is discussed in more detail in section four of this chapter.
+</para><para id="eip-89">Recall from section one that a net external force acts from outside on the object of interest. A more precise definition is that it acts on the <term>system</term> of interest. A system is one or more objects that you choose to study. It is important to define the system at the beginning of a problem to figure out which forces are external and need to be considered and which are internal and can be ignored.</para><para id="eip-826">For example, in <link target-id="eip-idm20864848"/> (a), two children push a third child in a wagon at constant velocity. The system of interest is the wagon plus the small child shown in part b of the figure. The two children behind the wagon exert external forces on this system (<emphasis effect="italics">F</emphasis><sub>1</sub>, <emphasis effect="italics">F</emphasis><sub>2</sub>). Friction <emphasis effect="italics">f</emphasis> acting at the axles of the wheels and at the surface where the wheels touch the ground is another external force acting on the system. Two more external forces act on the system: the weight <emphasis effect="italics">W</emphasis> of the system pulling down and the normal force <emphasis effect="italics">N</emphasis> of the ground pushing up. Notice that the wagon is not accelerating vertically, so Newton’s first law tells us that the normal force balances the weight. Because the wagon is moving forward at constant velocity, then the force of friction must have the same strength as the sum of the forces applied by the two children.</para><figure id="eip-idm20864848" class="ost-tag-lo-k12phys-ch04-s02-lo01"><media id="eip-idp5554688" alt="Alt text"><image mime-type="image/jpeg" src="../../media/Figure_04_02_wagon.png"/></media><caption>(a) The wagon and rider form a “system” that is acted on by external forces. (b)The two children pushing the wagon and child provide two external forces. Friction acting at the wheel axles and on the surface of the tires where they touch the ground provides an external force that acts against the direction of motion. The weight <emphasis effect="italics">W</emphasis> and the normal force <emphasis effect="italics">N</emphasis> from the ground are two more external forces acting on the system. All external forces are represented in the figure by arrows. All of the external forces acting on the system add together, but because the wagon moves at a constant velocity, all the forces must add up to zero.</caption></figure></section></section>
+
+<section id="eip-304" class="ost-tag-lo-k12phys-ch04-s02-lo02"><title>Mass and Inertia</title>
+
+<note id="eip-715" class="os-teacher"><label>Teacher Edition</label>
+<para id="eip-idm26334000"><span class="level-below">[BL]</span> Review Newton’s First Law. Explain that the property of objects to maintain their state of motion is called inertia. <newline/>
+<span class="level-on">[OL]</span> <span class="level-above">[AL]</span> Take two similar carts or trolleys with wheels. Place a heavy weight in one of them. Ask students which cart would require more force to change its state of motion. Ask students which would stay in motion longer if you were to set them in motion. Based on this discussion, have students speculate what inertia may depend on.<newline/>
+<span class="level-below">[BL]</span> <span class="level-on">[OL]</span> Explain the concepts of mass and weight. Explain that these terms may be used interchangeably in everyday life but have different meanings in science.</para></note>
+
+<para id="eip-613"><term>Inertia</term> is the tendency for an object at rest to remain at rest or for a moving object to remain in motion in a straight line with constant speed. This key property of objects was first described by Galileo. Later, Newton incorporated the concept of inertia into his first law, which is often referred to as the <term>law of inertia</term>.</para><para id="eip-36">As we know from experience, some objects have more inertia than others. For example, changing the motion of a large truck is more difficult than changing the motion of a toy truck. In fact, the inertia of an object is proportional to the mass of the object. <term>Mass</term> is a measure of the amount of matter (or “stuff”) in something. The quantity or amount of matter in an object is determined by the number and type of atoms it contains. Unlike weight (which changes if the gravitational force changes), mass does not depend on gravity. The mass of an object is the same on Earth, in orbit, or on the surface of the Moon. In practice, it is very difficult to count and identify all of the atoms and molecules in an object, so mass is usually not determined this way. Instead, the mass of an object is determined by comparing it with the standard kilogram. Mass is therefore expressed in kilograms.</para>
+
+<note id="eip-idm961296" class="tips-for-success"><label>Tips for Success</label>In everyday language, people often use the terms weight and mass interchangeably—but this is not correct. Weight is actually a force (we cover this in more detail in section three).</note>
+
+<note id="eip-231" class="ost-assessed-feature ost-video ost-tag-lo-k12phys-ch04-s02-lo02 watch-physics"><label>Watch Physics</label><title>Newton’s first law of motion</title> 
+<para id="eip-idp1646512">This video contrasts the way we thought about motion and force in the time before Galileo’s concept of inertia and <term>Newton’s first law of motion</term> with the way we understand force and motion now. Refer to <link target-id="eip-idm20864848"/> as you watch.</para>
+
+
+<media id="fs-id1168849638005" alt="..."> <iframe width="660" height="371.4" src="https://www.khanacademy.org/embed_video?v=5-ZFOhHQS68"/></media>
+
+<list id="eip-idp19850304" list-type="enumerated"><item>Galileo’s concepts<list id="eip-idp10164288" list-type="enumerated" number-style="lower-alpha"><item>Things just come to a stop</item><item>Forces don’t act against objects</item></list></item><item>Newton’s concepts<list id="eip-idp5872736" list-type="enumerated" number-style="lower-alpha"><item>Objects will continue at the same speed if no opposing force</item><item>Weight is a force acting against an object.</item></list></item></list>
+
+ <exercise id="eip-idp413824" class="os-exercise os-embed grasp-check"><label>Grasp Check</label><problem id="eip-idm76540272">
+    <para id="eip-idm99866096"><link class="os-embed" url="#ost/api/ex/k12phys-ch04-ex033"/></para></problem></exercise>
+
+
+</note>
+
+<note id="fs-idm38320288" class="ost-assessed-feature ost-interactive virtual-physics ost-tag-lo-k12phys-ch04-s02-lo02"><label>Virtual Physics</label><title>Forces and Motion: Basics</title>
+
+<para id="fs-idp34383024">In this simulation, you will first explore net force by placing blue people on the left side of a tug of war rope and red people on the right side of the rope (by clicking people and dragging them with your mouse). Experiment with changing the number and size of people on each side to see how it affects the outcome of the match and the net force. Hit the Go! button to start the match, and the “reset all” button to start over.</para><list id="fs-idp48496992" list-type="enumerated" number-style="lower-alpha"><item>The side with the most force wins</item><item>The bigger the difference in the force, the easier it is for one side to win.</item><item>When force is equal, no one wins.</item></list><para id="fs-idp52126304">Next, click on the Friction tab. Try selecting different objects for the person to push. Slide the applied force button to the right to apply force to the right and to the left to apply force to the left. The force will continue to be applied as long as you hold the button down. See the arrow representing friction change in magnitude and direction depending on how much force you apply. Try increasing or decreasing the friction force to see how this affects the motion.</para>
+
+
+<media id="fs-id1169641526142" alt=" " class="os-embed">
+<iframe width="960" height="785" src="http://archive.cnx.org/specials/eb99fecc-0e7a-4c09-86e2-8bcb1490c0d3/energy-forms-and-changes/"/>
+</media>
+
+<exercise id="fs-id1866706" class="os-exercise os-embed grasp-check">
+<label>Grasp Check</label>
+<problem id="fs-id2862960">
+<para id="fs-id1799007">
+<link class="os-embed" url="#ost/api/ex/k12phys-ch04-ex034"/>
+</para>
+</problem>
+</exercise>
+
+</note></section>
+<section id="eip-305" class="summary ost-reading-discard"><title>Section Summary</title><para id="eip-idm44169728"><list id="eip-idm85549552"><item>Newton’s first law states that a body at rest remains at rest or, if moving, remains in motion in a straight line at a constant speed unless acted on by a net external force. This is also known as the law of inertia.</item>
+<item>Inertia is the tendency of an object at rest to remain at rest or, if moving, to remain in motion at constant velocity. Inertia is related to an object’s mass.</item>
+<item>Friction is a force that opposes motion and causes an object or system to slow down.</item>
+<item>Mass is the quantity of matter in a substance.</item></list></para></section>
+
+<section id="eip-353" class="ost-reading-discard key-equations"><title>Key Equations</title> <equation id="eip-570"><title>Newton's first law</title><m:math>
+ <m:mrow>
+  <m:mi>f</m:mi><m:mrow><m:mo>(</m:mo>
+   <m:mi>x</m:mi>
+  <m:mo>)</m:mo></m:mrow><m:mo>=</m:mo><m:mi>c, where c is a constant</m:mi><m:mo/>
+ </m:mrow>
+</m:math></equation><equation id="eip-770"><title>Newton's sixth law</title><m:math>
+ <m:mrow>
+  <m:mi>f</m:mi><m:mrow><m:mo>(</m:mo>
+   <m:mi>x</m:mi>
+  <m:mo>)</m:mo></m:mrow><m:mo>=</m:mo><m:mi>x</m:mi>
+ </m:mrow>
+</m:math></equation></section></section>
+
+<section id="fs-idm71187456" class="practice-concepts ost-reading-discard"><title>Check Your Understanding</title>
+<exercise id="fs-idm20483824" class="os-exercise ost-tag-lo-k12phys-ch04-s02-lo01 ost-tag-dok-1 ost-tag-blooms-1 ost-tag-time-short">
+    <problem id="fs-idp37354336">
+      <para id="fs-idp35901760"><link class="os-embed" url="#ost/api/ex/k12phys-ch04-ex035"/></para>
+    </problem>
+  </exercise>
+  <exercise id="fs-idm51782000" class="os-exercise os-exercise ost-tag-lo-k12phys-ch04-s02-lo01 ost-tag-dok-2 ost-tag-blooms-3 ost-tag-time-short">
+    <problem id="fs-idm30958336">
+      <para id="fs-idm53218240"><link class="os-embed" url="#ost/api/ex/k12phys-ch04-ex036"/></para>
+    </problem>
+  </exercise>
+<exercise id="eip-idp1259600" class="os-exercise os-exercise ost-tag-lo-k12phys-ch04-s02-lo02 ost-tag-dok-1 ost-tag-blooms-1 ost-tag-time-short"><problem id="eip-idp22780016"><para id="eip-idp10991472"><link class="os-embed" url="#ost/api/ex/k12phys-ch04-ex037"/></para></problem></exercise>
+<exercise id="eip-idp10062848" class="os-exercise os-exercise ost-tag-lo-k12phys-ch04-s02-lo02 ost-tag-dok-2 ost-tag-blooms-3 ost-tag-time-short"><problem id="eip-idp32885104"><para id="eip-idp3387376"><link class="os-embed" url="#ost/api/ex/k12phys-ch04-ex038"/></para></problem></exercise></section>
+
+<section id="fs-idm56025888" class="ost-reading-discard ost-chapter-review concept">
+  <title>Concept Items</title><exercise id="fs-idm65070096" class="os-exercise ost-tag-lo-k12phys-ch04-s02-lo01 ost-tag-dok-2 ost-tag-blooms-3 ost-tag-time-short"><problem id="fs-idp2435696">
+      <para id="fs-idm60009600"><link class="os-embed" url="#ost/api/ex/k12phys-ch04-ex047"/>
+    </para></problem>
+  </exercise><exercise id="fs-idm36770368" class="os-exercise ost-tag-lo-k12phys-ch04-s02-lo02 ost-tag-dok-2 ost-tag-blooms-3 ost-tag-time-short">
+    <problem id="fs-idm46629456">
+      <para id="fs-idm27882848"><link class="os-embed" url="#ost/api/ex/k12phys-ch04-ex048"/>
+    </para></problem>
+  </exercise>
+</section>
+
+
+
+<section id="fs-idp15971072" class="ost-reading-discard ost-chapter-review critical-thinking">
+  <title>Critical Thinking Items</title><exercise id="fs-idp69697408" class="os-exercise ost-tag-lo-k12phys-ch04-s02-lo01 ost-tag-dok-3 ost-tag-blooms-5 ost-tag-time-med"><problem id="fs-idp55256064">
+      <para id="fs-idp47204912"><link class="os-embed" url="#ost/api/ex/k12phys-ch04-ex053"/></para></problem>
+  </exercise><exercise id="fs-idp19674432" class="os-exercise ost-tag-lo-k12phys-ch04-s02-lo02 ost-tag-dok-3 ost-tag-blooms-5 ost-tag-time-med">
+    <problem id="fs-idp88556720">
+      <para id="fs-idp38044752"><link class="os-embed" url="#ost/api/ex/k12phys-ch04-ex054"/></para></problem>
+  </exercise>
+</section>
+
+<section id="fs-idp5033136" class="ost-reading-discard ost-test-prep multiple-choice">
+  <title>Test Prep Multiple Choice</title><exercise id="fs-idp2931856" class="os-exercise ost-tag-lo-k12phys-ch04-s02-lo01 ost-tag-dok-1 ost-tag-blooms-1 ost-tag-time-short">
+    <problem id="fs-idm2415664">
+      <para id="fs-idm1515712"><link class="os-embed" url="#ost/api/ex/k12phys-ch04-ex059"/>
+    </para></problem>
+  </exercise>
+  <exercise id="fs-idm84911568" class="os-exercise ost-tag-lo-k12phys-ch04-s02-lo02 ost-tag-dok-1 ost-tag-blooms-1 ost-tag-time-short">
+    <problem id="fs-idm24438496">
+      <para id="fs-idm95346960"><link class="os-embed" url="#ost/api/ex/k12phys-ch04-ex060"/></para></problem>
+  </exercise>
+</section>
+
+<section id="fs-idm53317184" class="ost-reading-discard ost-test-prep short-answer"><title>Test Prep Short Answer</title><exercise id="fs-idm70263744" class="os-exercise ost-tag-lo-k12phys-ch04-s02-lo01 ost-tag-dok-2 ost-tag-blooms-3 ost-tag-time-short">
+    <problem id="fs-idm36001280">
+      <para id="fs-idm58066816"><link class="os-embed" url="#ost/api/ex/k12phys-ch04-ex061"/>
+    </para></problem>
+  </exercise>
+  <exercise id="fs-idm79253408" class="os-exercise ost-tag-lo-k12phys-ch04-s02-lo01 ost-tag-dok-2 ost-tag-blooms-3 ost-tag-time-short">
+    <problem id="fs-idm86468464">
+      <para id="fs-idm52047952"><link class="os-embed" url="#ost/api/ex/k12phys-ch04-ex062"/></para></problem>
+  </exercise>
+<exercise id="eip-idp13927648" class="os-exercise ost-tag-lo-k12phys-ch04-s02-lo02 ost-tag-dok-2 ost-tag-blooms-3 ost-tag-time-short">
+    <problem id="eip-idp79608864">
+      <para id="eip-idp64692080"><link class="os-embed" url="#ost/api/ex/k12phys-ch04-ex063"/></para></problem>
+  </exercise>
+<exercise id="eip-idp116624608" class="os-exercise ost-tag-lo-k12phys-ch04-s02-lo02 ost-tag-dok-2 ost-tag-blooms-3 ost-tag-time-short">
+    <problem id="eip-idp60936864">
+      <para id="eip-idp34200800"><link class="os-embed" url="#ost/api/ex/k12phys-ch04-ex064"/></para></problem>
+  </exercise>
+
+</section>
+
+<section id="fs-idm72523760" class="ost-reading-discard ost-test-prep extended-response">
+  <title>Test Prep Extended Response</title><exercise id="fs-idm96811744" class="os-exercise ost-tag-lo-k12phys-ch04-s02-lo01 ost-tag-dok-3 ost-tag-blooms-5 ost-tag-time-med">
+    <problem id="fs-idm79488864">
+      <para id="fs-idm116137648"><link class="os-embed" url="#ost/api/ex/k12phys-ch04-ex065"/></para></problem>
+  </exercise>
+  <exercise id="fs-idm37073488" class="os-exercise ost-tag-lo-k12phys-ch04-s02-lo02 ost-tag-dok-3 ost-tag-blooms-5 ost-tag-time-med">
+    <problem id="fs-idm35798256">
+      <para id="fs-idm28998864"><link class="os-embed" url="#ost/api/ex/k12phys-ch04-ex066"/></para></problem>
+  </exercise>
+
+</section>
+</content>
+
+
+
+<glossary>
+<definition id="fs-idp38390880"><term>friction</term><meaning id="fs-idp69363104">an external force that acts in the direction opposite to the direction of motion</meaning></definition>
+<definition id="fs-idp32901536"><term>inertia</term><meaning id="fs-idp2280640">the tendency of an object at rest to remain at rest or for a moving object to remain in motion in a straight line and at constant speed—MATH</meaning></definition>
+<definition id="fs-idp22688960"><term>law of inertia</term><meaning id="fs-idp26210592">Newton’s first law of motion: a body at rest remains at rest or, if in motion, remains in motion at a constant speed in a straight line unless acted on by a net external force; also known as the law of inertia</meaning></definition>
+<definition id="fs-idp76765280"><term>mass</term><meaning id="fs-idp90674960">the quantity of matter in a substance; measured in kilograms</meaning></definition>
+<definition id="fs-idp42413872"><term>Newton's first law of motion</term><meaning id="fs-idp33729328">a body at rest remains at rest or, if in motion, remains in motion at a constant speed in a straight line unless acted on by a net external force; also known as the law of inertia</meaning></definition>
+<definition id="fs-idp59393232"><term>system</term><meaning id="fs-idp77789136">one or more objects of interest for which only the forces acting on them from the outside are considered but not the forces acting between them or inside of them</meaning></definition>
+</glossary>
+</document>

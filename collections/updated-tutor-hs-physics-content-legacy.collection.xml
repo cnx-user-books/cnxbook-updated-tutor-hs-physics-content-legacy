@@ -1,12 +1,13 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" authors="OpenStax Alina">
   <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
     <md:content-id>col11768</md:content-id>
     <md:title>Updated Tutor HS Physics Content - legacy</md:title>
     <md:language>en</md:language>
     <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License</md:license>
     <md:uuid>7db9aa72-f815-4c3b-9cb6-d50cf5318b58</md:uuid>
-<md:slug>updated-tutor-hs-physics-content-legacy</md:slug>
-</metadata>
+    <md:slug>updated-tutor-hs-physics-content-legacy</md:slug>
+  </metadata>
   <col:content>
     <col:subcollection>
       <md:title>Forces and Newton's Laws of Motion</md:title>
